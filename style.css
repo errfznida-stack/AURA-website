@@ -58,3 +58,16 @@
   }
   .reveal-on-scroll { opacity: 1; transform: none; }
 }
+#nav a{
+  font-size:medium;
+  font: weight 400px;
+  
+}
+
+footer{
+  text-align: center;
+}
+.foo p , a{
+  text-align: center;
+  font-size: medium
+}
